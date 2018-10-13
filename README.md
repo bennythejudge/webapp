@@ -1,5 +1,7 @@
 # Webapp with chef and vagrant
 
+[![GuardRails badge](https://badges.production.guardrails.io/bennythejudge/webapp.svg)](https://www.guardrails.io)
+
 ## 1. What's cool about this? (short description for the busy people)
 ------
 - Chef reusability in many scenarios (standalone/enterprise/lab etc)  
